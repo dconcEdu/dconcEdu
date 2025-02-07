@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h4><a class="link" href="https://github.com/thisisdconc">Main Profile</a><br><hr>
+    <h4>Main Profile: <a class="link" href="https://github.com/thisisdconc">thisisdconc</a><br><hr>
 ### I work with:<br><br>
   
   <p align="center">
