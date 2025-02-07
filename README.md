@@ -1,6 +1,24 @@
-## Hi there 👋
+<div id="header" align="center">
+    <h4><a class="link" href="https://github.com/thisisdconc">Main Profile</a><br><hr>
+### I work with:<br><br>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,ps,pr,xd,azure,github,visualstudio,vscode,wordpress" />
 
-<!--
+### Languages:<br><br>
+  
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,html,css,php,js,jquery," />
+  </a>
+</p>
+  
+  <h4>Founder and CEO at <a class="link" href="https://www.qspace.rf.gd">Qspace Corporation</a><br><hr>
+
+<!--## Hi there 👋
+
+
 **dconcEdu/dconcEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
